@@ -48,3 +48,4 @@ See [LICENSE](LICENSE)
 
 [gh-actions]: https://github.com/firebase/quickstart-js/actions
 [gh-actions-badge]: https://github.com/firebase/quickstart-js/workflows/CI%20Tests/badge.svg
+# firebase-front-end-test
